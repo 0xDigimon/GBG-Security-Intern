@@ -94,3 +94,7 @@ Summary:
 - **Iterative Queries**: DNS servers provide best available information step by step.
 - **Authoritative Response**: Ultimate source of truth for a domain or record.
 - **Non-Authoritative Response**: Provides information based on cached or obtained data, not ultimate authority.
+
+<hr>
+
+#### Thanks For Reading ✌️
